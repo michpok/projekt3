@@ -65,7 +65,7 @@ def kontrola_vstupu(string, data, text):
         exit()
 
 
-# spoje slova v listu napr:[[ahoj Tondo]] -> [ahoj Tondo]
+# spoje slova v listu napr:[[ahoj , Tondo]] -> [ahoj Tondo]
 def spojeni_listu(spoj, data):
     delim = spoj
     spojeni = reduce(add, [x + delim for x in data[:-1]] + [data[-1]])
