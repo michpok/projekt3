@@ -6,6 +6,8 @@ Kromě projekt.py je potřeba si spustit soubor funkce.py který obsahuje uživa
 
 Pro spuštění  je potřeba zadat v terminálu nejdřív python projekt.py následně v tom to pořaadí webovou adresu v uvozovkách požadované obce a název výstupního csv souboru.
 např.: 
+
 python projekt.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203' zpracovane_data.csv 
+
 Pro ukázu jsem v projekt3 na githubu nahral zpracovane_data.csv zvýše ukázaného odkazu pro okres Brno-venkov.
 
