@@ -7,7 +7,7 @@ Kromě projekt_3.py je potřeba si spustit soubor funkce.py, který obsahuje už
 Pro spuštění  je potřeba zadat v terminálu nejdřív python projekt.py následně v tomto pořadí webovou adresu v uvozovkách požadované obce a název výstupního csv souboru.
 např.: 
 
-python projekt.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203' zpracovane_data.csv 
+python projekt_3.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203' zpracovane_data.csv 
 
 Pro ukázku jsem v projekt3 na githubu nahrál zpracovane_data.csv zvýše ukázaného odkazu pro okres Brno-venkov.
 
